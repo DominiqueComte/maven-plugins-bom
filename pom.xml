@@ -306,6 +306,9 @@
                     <groupId>org.codehaus.mojo</groupId>
                     <artifactId>versions-maven-plugin</artifactId>
                     <version>2.17.1</version>
+                    <configuration>
+                        <ignoredVersions>.*-beta.*,.*-M.*,.*-SNAPSHOT.*</ignoredVersions>
+                    </configuration>
                 </plugin>
                 <plugin>
                     <groupId>org.owasp</groupId>
