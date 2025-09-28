@@ -5,7 +5,7 @@
 
     <groupId>org.valsgarth</groupId>
     <artifactId>maven-plugins-bom</artifactId>
-    <version>2023.6.21</version>
+    <version>2025.9.28</version>
     <packaging>pom</packaging>
 
     <name>Maven Plugins (Bill of Materials)</name>
